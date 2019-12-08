@@ -1,5 +1,11 @@
 <p align="center"><img height="188" width="198" src="https://botman.io/img/botman.png"></p>
 <h1 align="center">BotMan Studio</h1>
+<p align="center">
+<a href="https://packagist.org/packages/krdesigns/studio"><img src="https://poser.pugx.org/krdesigns/studio/downloads" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/krdesigns/studio"><img src="https://poser.pugx.org/krdesigns/studio/v/stable" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/krdesigns/studio"><img src="https://poser.pugx.org/krdesigns/studio/license" alt="License"></a>
+
+</p>
 
 ## This is a modified version of Botman Studio
 
