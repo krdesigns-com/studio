@@ -1,6 +1,23 @@
 <p align="center"><img height="188" width="198" src="https://botman.io/img/botman.png"></p>
 <h1 align="center">BotMan Studio</h1>
 
+## This is a modified version of Botman Studio
+
+Its run on Laravel ver. 6.x with its supporting drivers.
+
+Currently it support:
+- Telegram
+- Facebook Messenger
+- Line
+
+The rest of driver will be added soon.
+
+## Added middleware
+
+Several new middleware include in this version:
+- Dialogflow V2
+- Bot Typing
+
 ## About BotMan Studio
 
 While BotMan itself is framework agnostic, BotMan is also available as a bundle with the great [Laravel](https://laravel.com) PHP framework. This bundled version is called BotMan Studio and makes your chatbot development experience even better. By providing testing tools, an out of the box web driver implementation and additional tools like an enhanced CLI with driver installation, class generation and configuration support, it speeds up the development significantly.
@@ -23,3 +40,7 @@ If you discover a security vulnerability within BotMan or BotMan Studio, please 
 
 BotMan is free software distributed under the terms of the MIT license.
 
+**Credit for:**
+Marcel Pociot @mpociot
+Christoph Rumpel @christophrumpel
+Jonathan Gueron @eclips16
