@@ -22,7 +22,7 @@
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
-        "facade/ignition": "1.16.14",
+        "facade/ignition": "1.16.15",
         "fzaninotto/faker": "^1.4",
         "mockery/mockery": "^1.0",
         "nunomaduro/collision": "^3.0",
